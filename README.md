@@ -1,7 +1,7 @@
 # Corso di Algoritmi e Strutture Dati 2023/2024 
 ## Laurea in Intelligenza Artificiale e Data Analytics + Ingegneria Elettronica ed Informatica
 
-Benvenuti nella repo del corso di di Algoritmi e Strutture Dati per l'anno accademico 2023/2024📚💻
+Benvenuti nella repo del corso di Algoritmi e Strutture Dati per l'anno accademico 2023/2024📚💻
 
 ### Contatti
 Docente: 
