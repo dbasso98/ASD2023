@@ -1,0 +1,27 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# Output files
+*.pyc
+*.pyo
+*.pyd
+
+# Environment variables
+.env
+
+# IDE specific files
+.vscode/
+.idea/
+
+# Virtual environment
+venv/
+env/
+
+# Hide all solutions, at the moment :)
+**/sol*/
