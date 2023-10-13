@@ -23,3 +23,7 @@ __pycache__/
 venv/
 env/
 
+Lab02/*sol*
+Lab02/*.jpg
+
+Homework/*sol*
