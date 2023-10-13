@@ -23,9 +23,6 @@ __pycache__/
 venv/
 env/
 
-# Hide all solutions, at the moment :)
-**/sol*/
-
 Lab02/*sol*
 Lab02/*.jpg
 Homework/*sol*
