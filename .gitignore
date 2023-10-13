@@ -26,5 +26,5 @@ env/
 # Hide all solutions, at the moment :)
 **/sol*/
 
-Lab02/
-Homework/
+Lab02/*sol*
+Homework/*sol*
