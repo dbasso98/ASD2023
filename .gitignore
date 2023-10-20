@@ -26,4 +26,7 @@ env/
 Lab02/*sol*
 Lab02/*.jpg
 
+*/*.zip
+*/*/*.zip
+
 Homework/*sol*
