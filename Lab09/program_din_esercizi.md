@@ -1,0 +1,10 @@
+# Esercizi su programmazione dinamica
+
+1. Nel laboratorio 9 abbiamo visto la risoluzione del problema dello zaino (Knapsack problem) mediante un appproccio bottom-up, ovvero andando ad identificare una serie di relazioni ricorsive che ci permettono di trovare la soluzione ottima al nostro problema generale andando a calcolare la soluzione ottima per ogni sottoproblema, a partire dal caso base. 
+Risolvere il probelma dello zaino seguendo un approccio top-down, basandosi sulla tecnica della [memoizzazione](https://it.wikipedia.org/wiki/Memoizzazione#:~:text=La%20memoizzazione%20%C3%A8%20una%20tecnica,riutilizzo%20successivo%20senza%20doverli%20ricalcolare).
+2. Supponiamo di avere n files aventi rispettivamente dimensione $F[1], F[2], . . . , F[n]$; le dimensioni sono numeri interi strettamente positivi e sono espresse in $\mathrm{MB}$. Disponiamo di un CD-ROM avente capacità $650\mathrm{MB}$; sfortunatamente, il CD-ROM potrebbe non essere sufficientemente capiente per memorizzare tutti i n files.
+     * Scrivere un algoritmo efficiente per determinare il numero massimo di files che è possibile memorizzare sul CD-ROM senza eccederne la capacità. Non è richiesto che l’algoritmo stampi anche quali file memorizzare.
+    * Analizzare il costo computazionale dell’algoritmo proposto.
+3. Un distributore di merendine contiene al suo interno n monete i cui valori sono rispettivamente $c[1], c[2], . . . , c[n]$, dove $c[i]$ sono interi positivi ed è possibile che più monete abbiano lo stesso valore. Studiamo il problema di decidere se sia o meno possibile erogare un resto uguale a $R$ utilizzando un opportuno sottoinsieme delle n monete a disposizione dove, nuovamente, $R$ è un intero positivo. 
+   * Descrivere lo pseudo-codice di un algoritmo efficiente per decidere se il problema ammette una soluzione. L'algoritmo, quindi, dovrà tornare un valore di verità (`true` se si può erogare il resto, `false` altrimenti). Attenzione: l'algoritmo non richiede di trovare il numero minimo di monete da erogare, chiede semplicemente se sia possibile erogare il resto corretto.
+   *  Analizzare il costo computazionale dell’algoritmo proposto.
